@@ -1,0 +1,2 @@
+OLED_I2C=I2C_OLED_SDA,I2C_OLED_SCL
+User_IO=USER_LED_0,USER_LED_1,USER_LED_2,USER_LED_3,USER_LED_4,USER_LED_5,USER_LED_6,USER_LED_7,Button_U,Button_L,Button_C,Button_R,Button_D,Switch_0,Switch_1,Switch_2,Switch_3,Switch_4,Switch_5,Switch_6,Switch_7,Switch_8
